@@ -1,9 +1,9 @@
 # Speed-dependence-on-Binding-free-energy
 This repository contains MATLAB code to predict the velocity of Kinesin protein motors which are modeled as a Brownian motor using Fokker-Planck equation (FPE)
 
-Download all .m files.
-Change the desired potential in main.m file code.
-Run the main.m file.
+1. Download all .m files.
+2. Change the desired potential in main.m file code.
+3. Run the main.m file.
 
 About Code:
 1. Data used in code is for single Headed Kinesin
